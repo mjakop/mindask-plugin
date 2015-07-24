@@ -1,4 +1,4 @@
-[MindAsk website](http://www.mindask.com)
+MindAsk website: http://www.mindask.com
 
 MindAsk helps you to better understand your customers by collecting feedback directly on website.
 
@@ -14,7 +14,7 @@ Installation
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Follow instructions on MindAsk admin page.
 
-For more visit [MindAsk website](http://www.mindask.com)
+For more visit http://www.mindask.com
 
 
 
